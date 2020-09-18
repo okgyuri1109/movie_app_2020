@@ -4,6 +4,7 @@ function Food({fav}) {
     return (
         <h3>I love {fav}</h3>
     );
+    
 }
 function App() {
 return (

@@ -2,6 +2,17 @@
 
 ## movie_app_2020
 React JS Fundamentals Course 2020
+## 10월 7일
+ >1. prop-types 설치하기
+ >2. Food.propTypes 작성하기
+ >3. rating 키 값 확인하기
+ >4. isRequired의 뜻 알고 응용하기
+
+## 9월 25일
+ >1. img태그 학습 및 응용하기
+ >2. import를 사용하여 이미지 삽입하기
+ >3. 이미지에 alt 속성추가하기
+ >4. map함수 활용하기
 
 ## 9월 18일
  >1. 컴포넌트가 무엇인지 알아보고, JSX를 학습.

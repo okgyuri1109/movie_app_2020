@@ -17,10 +17,10 @@ React JS Fundamentals Course 2020
 ## 11월 27일
  >1. CDN을 사용하여 react 실행하기
  >2. 타이머 예제 학습하기
-    >2-1. this.props를 이용하여 입력 데이터 다루기
-    >2-2. this state로 접근하기
-    >2-3. interval 사용하기
-    >2-4. 데이터가 바뀌면 render()을 호출하여 갱신하기
+ >3. this.props를 이용하여 입력 데이터 다루기
+ >4. this state로 접근하기
+ >5. interval 사용하기
+ >6. 데이터가 바뀌면 render()을 호출하여 갱신하기
 
 ## 11월 20일
  >1. navigation 사용하여 영화 데이터 추가하기

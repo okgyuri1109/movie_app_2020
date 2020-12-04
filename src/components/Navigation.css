@@ -1,0 +1,9 @@
+.nav {
+    z-index: 1;
+    position: fixed;
+    top: 50px;
+    left: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}

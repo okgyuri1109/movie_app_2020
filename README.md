@@ -1,6 +1,44 @@
 # 배규리 201840214
 ## movie_app_2020
 React JS Fundamentals Course 2020
+## 12월 5일
+ >1. 한 학기동안 학습한 내용 커밋하기
+
+## 12월 4일
+ >1. 기말고사
+
+## 12월 1일 
+ >1. props와 state를 사용하여 Todo 어플리케이션 만들기
+ >2. state를 사용하여 입력받은 할 일 목록 관리하기
+ >3. 이벤트 핸들러, 리스트, key 학습하기
+ >4. 유연한 react 학습하기
+
+## 11월 27일
+ >1. CDN을 사용하여 react 실행하기
+ >2. 타이머 예제 학습하기
+     2-1. this.props를 이용하여 입력 데이터 다루기
+     2-2. this state로 접근하기
+     2-3. interval 사용하기
+     2-4. 데이터가 바뀌면 render()을 호출하여 갱신하기
+
+## 11월 20일
+ >1. navigation 사용하여 영화 데이터 추가하기
+ >2. 영화 포스터 누르면 상세페이지로 넘어가기
+
+## 11월 13일
+ >1. css이용하여 영화 앱 다듬기
+ >2. react-router-dom 설치하기
+
+## 11월 6일
+ >1. 영화 포스터 이미지 추가하기
+ >2. 영화 장르 출력하기
+
+## 10월 16일
+ >1. constructor() 함수 학습하기
+ >2. componentDidMount() 함수 학습하기
+ >3. componentDidUpdate() 함수 학습하기
+ >4. coponentDidUnmount() 함수 학습하기
+ >5. axios 사용하기
 
 ## 10월 7일
 >1. prop-types 설치하기
